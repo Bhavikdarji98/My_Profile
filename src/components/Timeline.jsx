@@ -21,8 +21,8 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Software Developer at Citrusbug Technolabs <span>July-Nov-2020</span></h2>
-                        <p>I am working as a Django developer responsible for developing backennd for various frontend modules and also APIs as well. I have worked on different projects form different domains including music, social media and rental based systems.</p>
+                        <h2>Django Developer <span>July-Nov-2020</span></h2>
+                        <p>I am working as a Django developer ,responsible for developing backend for various frontend and  APIs as well. I have worked on different projects form different domains including music, social media and rental based systems.</p>
                       </div>
                     </div>
                   </article>
@@ -33,7 +33,7 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>Internship at Grrass Solutions <span>Jun-2019 to June-2020</span></h2>
-                        <p>I have completed my internship with python data-science at grrass solutions Pvt. Ltd. There I learnt core python to advanced concepts and statred towards data-sience and machine- learning. I learnt Django over there and worked some live projects also.</p>
+                        <p>I have completed my internship with python data-science at Grrass solutions Pvt. Ltd. There I learnt core python to advanced concepts and started towards data-sience and machine-learning. I learnt Django over there and worked on some live projects.</p>
                     </div>
                     </div>
                   </article>
@@ -44,7 +44,7 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>Undergraduation at GEC-Patan<span> June-2016 to Aug-20</span></h2>
-                        <p>I have completed my under-graduation studies with major in CSE(Computer Science & Engineering). I have taken courses like DSA, OOPs, Computer Networks, IOT, Web-Data Management over the years and have better understanding of these subjects.I have completed my graduation with <strong>8.97 </strong>CGPA and <strong>8.59</strong> CPI </p>
+                        <p>I have completed my under-graduation studies with major in CSE(Computer Science & Engineering). I have taken courses like DSA, OOPs, Computer Networks, Web-Data Management over the years and have better understanding of these subjects.I have completed my graduation with <strong>8.97 </strong>CGPA </p>
                       </div>
                     </div>
                   </article>
